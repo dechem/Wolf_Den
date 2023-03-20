@@ -1,0 +1,37 @@
+[pp_geo(10010)] admin@telnet:127.0.0.1;58032
+> latlng 101 11111   33.352531 -78.620813
+GeoRspMsg: did [0], status [1], sa id [1], sa obj id [0], ra id [0], ra obj id [0], max rf power [48.50], op allowed [1]
+           lat [33.352531], lng [-78.620811], sat_lng [-123.000000]
+ - beam id [1], sas domain [IS14], tx gain [0.012], fom [15100], sat.long [-45.000]
+ref skew params flag [0], tol val(deg) [0.000000], tol val(db) [0.000000], ref skew angle(deg) [0.000000], ref max cn(db) [0.000000]
+  - net id [6987], net flag [1], out.atac [128], out.out_freq [11752201], out.sym.rate [15000000], out.in_freq [14319965], out.carrier_spacing [20%], out.polarization [2], out.uplinkmode [CROSS_POL], out.rf_term_type_supported [True]
+ 
+ - beam id [1], sas domain [IS34], tx gain [0.012], fom [10400], sat.long [-55.500]
+ref skew params flag [0], tol val(deg) [0.000000], tol val(db) [0.000000], ref skew angle(deg) [0.000000], ref max cn(db) [0.000000]
+  - net id [2003], net flag [1], out.atac [128], out.out_freq [11675000], out.sym.rate [30000000], out.in_freq [14087830], out.carrier_spacing [20%], out.polarization [2], out.uplinkmode [CROSS_POL], out.rf_term_type_supported [True]
+ 
+ - beam id [1], sas domain [G18], tx gain [0.012], fom [7000], sat.long [-123.000]
+ref skew params flag [0], tol val(deg) [0.000000], tol val(db) [0.000000], ref skew angle(deg) [0.000000], ref max cn(db) [0.000000]
+  - net id [17650], net flag [1], out.atac [64], out.out_freq [11760000], out.sym.rate [30000000], out.in_freq [14469304], out.carrier_spacing [20%], out.polarization [2], out.uplinkmode [CROSS_POL], out.rf_term_type_supported [True]
+ ]
+ 
+ - beam id [36], sas domain [IS37eFUS], tx gain [0.012], fom [1200], sat.long [-18.000]
+ref skew params flag [0], tol val(deg) [0.000000], tol val(db) [0.000000], ref skew angle(deg) [0.000000], ref max cn(db) [0.000000]
+  - net id [809938], net flag [1], out.atac [64], out.out_freq [11923921], out.sym.rate [20590000], out.in_freq [14148390], out.carrier_spacing [20%], out.polarization [3], out.uplinkmode [CROSS_POL], out.rf_term_type_supported [True]
+
+ - beam id [37], sas domain [IS37eFUS], tx gain [0.012], fom [4600], sat.long [-18.000]
+ref skew params flag [0], tol val(deg) [0.000000], tol val(db) [0.000000], ref skew angle(deg) [0.000000], ref max cn(db) [0.000000]
+  - net id [806543], net flag [1], out.atac [64], out.out_freq [11854621], out.sym.rate [29080000], out.in_freq [14273344], out.carrier_spacing [20%], out.polarization [2], out.uplinkmode [CROSS_POL], out.rf_term_type_supported [True]
+
+ - beam id [1], sas domain [G11], tx gain [0.012], fom [4600], sat.long [-93.100]
+ref skew params flag [0], tol val(deg) [0.000000], tol val(db) [0.000000], ref skew angle(deg) [0.000000], ref max cn(db) [0.000000]
+  - net id [1204881], net flag [1], out.atac [64], out.out_freq [10994000], out.sym.rate [22500000], out.in_freq [14237845], out.carrier_spacing [20%], out.polarization [2], out.uplinkmode [CROSS_POL], out.rf_term_type_supported [True]
+ -
+ - beam id [2], sas domain [G11], tx gain [0.012], fom [8100], sat.long [-93.100]
+ref skew params flag [0], tol val(deg) [0.000000], tol val(db) [0.000000], ref skew angle(deg) [0.000000], ref max cn(db) [0.000000]
+  - net id [1207284], net flag [1], out.atac [64], out.out_freq [11980000], out.sym.rate [30000000], out.in_freq [14351086], out.carrier_spacing [20%], out.polarization [2], out.uplinkmode [CROSS_POL], out.rf_term_type_supported [True]
+
+ - beam id [1], sas domain [G3C], tx gain [0.012], fom [5800], sat.long [-94.800]
+ref skew params flag [0], tol val(deg) [0.000000], tol val(db) [0.000000], ref skew angle(deg) [0.000000], ref max cn(db) [0.000000]
+  - net id [2869788], net flag [1], out.atac [65], out.out_freq [12140000], out.sym.rate [19170000], out.in_freq [14320289], out.carrier_spacing [20%], out.polarization [3], out.uplinkmode [CROSS_POL], out.rf_term_type_supported [True]
+ 

@@ -1,0 +1,10 @@
+"""
+code by NduX
+"""
+services:
+    kafka1:
+        build: ./
+        command: python3 ./hello.py
+    kafkagsp_metrics:
+        build:
+    

@@ -1,0 +1,84 @@
+http://10.200.171.132/api/2.0/config/inet/750756 - config query
+{
+    "errors": [],
+    "data": {
+        "obj_id": 750756,
+        "obj_name": "FLX.RVS.IS18.GCL-GCR.N1:750756",
+        "obj_parentid": 750755,
+        "obj_revision": 5,
+        "obj_version": "",
+        "obj_attributes": {
+            "beam_id": 750755,
+            "channelindex": "1",
+            "line_card_group_id": "",
+            "thresholdprofile_id": 1688
+        },
+        "obj_parent_id": 750755,
+        "obj_type": 207,
+        "obj_child_num": 0
+    },
+    "meta": {
+        "actions": [],
+        "url": "/api/2.0/config/inet/750756"
+    }
+}
+3253243
+
+{
+    "errors": [],
+    "data": [
+        {
+            "obj_id": 1207284,
+            "obj_name": "FLX.ATL.G11.14K.NAKH-14K.NAKV.MAR.N1:1207284",
+            "obj_parentid": 1207283,
+            "obj_revision": 6,
+            "obj_version": "",
+            "obj_attributes": {
+                "beam_id": 1207283,
+                "channelindex": "1",
+                "line_card_group_id": "",
+                "thresholdprofile_id": 1688
+            },
+            "obj_parent_id": 1207283,
+            "obj_type": 207,
+            "obj_child_num": 0
+        },
+        {
+            "obj_id": 1512278,
+            "obj_name": "FLX.ATL.G11.19K.NAKV-19K.NAKH.IGC.N1:1512278",
+            "obj_parentid": 1512277,
+            "obj_revision": 6,
+            "obj_version": "",
+            "obj_attributes": {
+                "beam_id": 1512277,
+                "channelindex": "1",
+                "line_card_group_id": "",
+                "thresholdprofile_id": 1688
+            },
+            "obj_parent_id": 1512277,
+            "obj_type": 207,
+            "obj_child_num": 0
+        },
+        {
+            "obj_id": 1204881,
+            "obj_name": "FLX.ATL.G11.3EK.NAXKH-3EK.NAXKV.N1:1204881",
+            "obj_parentid": 1204880,
+            "obj_revision": 8,
+            "obj_version": "",
+            "obj_attributes": {
+                "beam_id": 1204880,
+                "channelindex": "1",
+                "line_card_group_id": "",
+                "thresholdprofile_id": 1688
+            },
+            "obj_parent_id": 1204880,
+            "obj_type": 207,
+            "obj_child_num": 0
+        }
+    ],
+    "meta": {
+        "count": 200,
+        "next": "/api/2.0/config/inet?limit=3&skip=3"
+    }
+}
+inet-beam_id_parentid_sateellite

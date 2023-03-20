@@ -1,0 +1,127 @@
+now running ['172.24.52.21', '172.24.52.22', '172.24.52.23', '172.24.52.24', '172.24.52.25', '172.24.52.26', '172.24.52.27', '172.24.52.28', '172.24.52.29', '172.24.52.30', '172.24.52.31'] in parallel
+('pp_tpachk', '10005') 172.24.52.27
+('pp_tpa', '10006') 172.24.52.27
+10006 172.24.52.27
+this is the number of records going into influx : 1079
+number of online remotes scanned : 71
+number of problem remotes scanned : 0
+lenght of set of unique problem remotes scanned : 0
+set of unique problem remotes scanned : set()
+loading into influxdb sucessful for: 172.24.52.27
+
+Finished processing 172.24.52.27 in 2.5mins
+('pp_tpachk', '10005') 172.24.52.22
+('pp_tpa', '10006') 172.24.52.22
+10006 172.24.52.22
+this is the number of records going into influx : 1221
+number of online remotes scanned : 78
+number of problem remotes scanned : 0
+lenght of set of unique problem remotes scanned : 0
+set of unique problem remotes scanned : set()
+loading into influxdb sucessful for: 172.24.52.22
+
+Finished processing 172.24.52.22 in 2.72mins
+('pp_tpa', '10006') 172.24.52.23
+('pp_tpachk', '10005') 172.24.52.23
+10006 172.24.52.23
+
+Exception occured in status_please for server 172.24.52.23 in remotes IQ200Rackmount.42238 : 'NoneType' object has no attribute 'group'
+
+this is the number of records going into influx : 1294
+number of online remotes scanned : 83
+number of problem remotes scanned : 1
+lenght of set of unique problem remotes scanned : 1
+set of unique problem remotes scanned : {'IQ200Rackmount.42238'}
+loading into influxdb sucessful for: 172.24.52.23
+
+Finished processing 172.24.52.23 in 2.89mins
+('pp_tpachk', '10005') 172.24.52.28
+('pp_tpa', '10006') 172.24.52.28
+10006 172.24.52.28
+this is the number of records going into influx : 1233
+number of online remotes scanned : 78
+number of problem remotes scanned : 0
+lenght of set of unique problem remotes scanned : 0
+set of unique problem remotes scanned : set()
+loading into influxdb sucessful for: 172.24.52.28
+
+Finished processing 172.24.52.28 in 2.72mins
+('pp_tpachk', '10005') 172.24.52.24
+('pp_tpa', '10006') 172.24.52.24
+10006 172.24.52.24
+this is the number of records going into influx : 1151
+number of online remotes scanned : 73
+number of problem remotes scanned : 0
+lenght of set of unique problem remotes scanned : 0
+set of unique problem remotes scanned : set()
+loading into influxdb sucessful for: 172.24.52.24
+
+Finished processing 172.24.52.24 in 2.57mins
+('pp_tpachk', '10005') 172.24.52.29
+('pp_tpa', '10006') 172.24.52.29
+10006 172.24.52.29
+this is the number of records going into influx : 1154
+number of online remotes scanned : 74
+number of problem remotes scanned : 0
+lenght of set of unique problem remotes scanned : 0
+set of unique problem remotes scanned : set()
+loading into influxdb sucessful for: 172.24.52.29
+
+Finished processing 172.24.52.29 in 2.6mins
+('pp_tpachk', '10005') 172.24.52.31
+('pp_tpa', '10006') 172.24.52.31
+10006 172.24.52.31
+this is the number of records going into influx : 1207
+number of online remotes scanned : 76
+number of problem remotes scanned : 0
+lenght of set of unique problem remotes scanned : 0
+set of unique problem remotes scanned : set()
+loading into influxdb sucessful for: 172.24.52.31
+
+Finished processing 172.24.52.31 in 2.68mins
+('pp_tpachk', '10005') 172.24.52.25
+('pp_tpa', '10006') 172.24.52.25
+10006 172.24.52.25
+this is the number of records going into influx : 1312
+number of online remotes scanned : 84
+number of problem remotes scanned : 0
+lenght of set of unique problem remotes scanned : 0
+set of unique problem remotes scanned : set()
+loading into influxdb sucessful for: 172.24.52.25
+
+Finished processing 172.24.52.25 in 2.93mins
+('pp_tpachk', '10005') 172.24.52.30
+('pp_tpa', '10006') 172.24.52.30
+10006 172.24.52.30
+this is the number of records going into influx : 1318
+number of online remotes scanned : 85
+number of problem remotes scanned : 0
+lenght of set of unique problem remotes scanned : 0
+set of unique problem remotes scanned : set()
+loading into influxdb sucessful for: 172.24.52.30
+
+Finished processing 172.24.52.30 in 2.98mins
+('pp_tpa', '10006') 172.24.52.21
+('pp_tpachk', '10005') 172.24.52.21
+10006 172.24.52.21
+this is the number of records going into influx : 1353
+number of online remotes scanned : 88
+number of problem remotes scanned : 0
+lenght of set of unique problem remotes scanned : 0
+set of unique problem remotes scanned : set()
+loading into influxdb sucessful for: 172.24.52.21
+
+Finished processing 172.24.52.21 in 3.08mins
+('pp_tpachk', '10005') 172.24.52.26
+('pp_tpa', '10006') 172.24.52.26
+10006 172.24.52.26
+this is the number of records going into influx : 1454
+number of online remotes scanned : 93
+number of problem remotes scanned : 0
+lenght of set of unique problem remotes scanned : 0
+set of unique problem remotes scanned : set()
+loading into influxdb sucessful for: 172.24.52.26
+
+Finished processing 172.24.52.26 in 3.26mins
+
+Total Program runtime : 3.26mins
